@@ -1,3 +1,5 @@
+DEPRECATED: go-ipfs no longer uses this repo.
+
 # go-ipfs-flags
 
 [![](https://img.shields.io/badge/made%20by-Protocol%20Labs-blue.svg?style=flat-square)](http://ipn.io)
