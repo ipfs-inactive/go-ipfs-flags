@@ -1,3 +1,4 @@
+# Deprecated
 DEPRECATED: go-ipfs no longer uses this repo.
 
 # go-ipfs-flags
